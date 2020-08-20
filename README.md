@@ -6,7 +6,7 @@ Buildings marked as unsafe to occupy by the Cedar Rapids city government followi
 
 A list of 140 buildings was released by the Cedar Rapids City Clerk's Office on August 19, 2020, in response to my public records request. The raw file is available at [input/PlacardProperties_19Aug0930.xlsx](https://github.com/palewire/cedar-rapids-buildings-unsafe-after-derecho-2020/blob/master/input/PlacardProperties_19Aug0930.xlsx). 
 
-Using Python and the geocoding service at [geocod.io](https://geocod.io) I mapped the addresses. It's possible that process includes some errors. The results can be found in [output/placards.csv](https://github.com/palewire/cedar-rapids-buildings-unsafe-after-derecho-2020/blob/master/output/placards.csv) and [output/placards.geojson](https://github.com/palewire/cedar-rapids-buildings-unsafe-after-derecho-2020/blob/master/output/placards.geojson).
+I mapped the addresses using the geocoding service at [geocod.io](https://geocod.io). It's possible that process introduced some errors. The results can be found in [output/placards.csv](https://github.com/palewire/cedar-rapids-buildings-unsafe-after-derecho-2020/blob/master/output/placards.csv) and [output/placards.geojson](https://github.com/palewire/cedar-rapids-buildings-unsafe-after-derecho-2020/blob/master/output/placards.geojson).
 
 These files are public and free for any reuse. Attribution is appreciated.
 
